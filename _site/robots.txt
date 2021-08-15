@@ -1,1 +1,1 @@
-Sitemap: https://88darkone88.github.io/Jekyll-Step-by-Step/sitemap.xml
+Sitemap: https://88darkone88.github.io/test/sitemap.xml
